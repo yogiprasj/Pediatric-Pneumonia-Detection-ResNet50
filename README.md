@@ -43,7 +43,6 @@ The model was trained using the **Chest X-Ray Images (Pneumonia)** dataset from 
 
 ### 1. Clone the Repository
 ```bash
-### 1. Clone the Repository
 git clone [https://github.com/yogiprasj/Pediatric-Pneumonia-Detection-ResNet50.git](https://github.com/yogiprasj/Pediatric-Pneumonia-Detection-ResNet50.git)
 cd Pediatric-Pneumonia-Detection-ResNet50
 ```
